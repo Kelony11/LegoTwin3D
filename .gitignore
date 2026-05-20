@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Generated folders
+generated/
+
+# Optional: generated point cloud outputs if you don't want heavy files tracked
+output/reconstructed*.ply
+output/sparse_002.ply
+output/medium_001.ply
+output/dense_0005.ply
+
+# Optional: reports / assignment docs
+docs/report.pdf
+docs/problem.pdf
