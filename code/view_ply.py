@@ -1,8 +1,3 @@
-"""
-Virtual Reality Spring 2026
-Project 1 course-provided implementation file
-"""
-
 import open3d as o3d
 import argparse
 import os

@@ -1,12 +1,3 @@
-"""
-Virtual Reality Spring 2026
-Project 1 course-provided implementation file
-
-Mufeng Zhu (TA), Spring 2025
-
-Revised for Spring 2026 offering
-"""
-
 import cv2
 import numpy as np
 import open3d as o3d
