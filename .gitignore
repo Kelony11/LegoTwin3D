@@ -19,6 +19,7 @@ venv/
 generated/
 
 # Optional: generated point cloud outputs if you don't want heavy files tracked
+output/
 output/reconstructed*.ply
 output/sparse_002.ply
 output/medium_001.ply
