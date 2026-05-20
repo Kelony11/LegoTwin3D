@@ -44,4 +44,4 @@ python code/compute_metrics.py
 This project focuses on digital twin reconstruction, point cloud evaluation, and controlled experiments on viewpoint coverage, voxel density, and camera noise.
 
 ## AUTHOR 
-`Kelvin Ihezue
+`Kelvin Ihezue`
